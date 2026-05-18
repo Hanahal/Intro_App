@@ -6,3 +6,4 @@ matplotlib
 reportlab
 pillow
 scipy
+openpyxl
