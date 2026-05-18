@@ -7,4 +7,4 @@ reportlab
 pillow
 scipy
 openpyxl
-kaleido
+kaleido==0.2.1
